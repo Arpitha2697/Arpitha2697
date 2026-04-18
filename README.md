@@ -1,4 +1,4 @@
-# Hi there, I'm Arpitha D! 👋
+### Hi there, I'm Arpitha D! 👋
 
 Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passionate about solving problems and building things from scratch. I'm currently on a journey to code every single day and expand my skill set.
 
