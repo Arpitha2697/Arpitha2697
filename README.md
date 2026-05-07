@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a first-year tech enthusiast based in Bengaluru, passi
 **Languages:**
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Arpitha2697/Python-Programming)
 [![C](https://img.shields.io/badge/-%20-555555?style=for-the-badge&logo=c&logoColor=black)](https://github.com/Arpitha2697/C-Program)
-[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Arpitha2697/Python-Programming)
+[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Arpitha2697/HTML-Programming)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/git-%708090.svg?style=for-the-badge&logo=git&logoColor=white)
